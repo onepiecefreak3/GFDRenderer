@@ -1,0 +1,10 @@
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\bin\Debug\GFDFontRenderer.exe.config
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\bin\Debug\GFDFontRenderer.exe
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\bin\Debug\GFDFontRenderer.pdb
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.GFDForm.resources
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.Properties.Resources.resources
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.csproj.GenerateResource.Cache
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.exe
+C:\Users\Kirito\Desktop\GFDFontRenderer\GFDFontRenderer\obj\Debug\GFDFontRenderer.pdb

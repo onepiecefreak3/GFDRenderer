@@ -128,7 +128,7 @@ namespace GFDFontRenderer.GFD
                     {
                         var usedChar = gfdv1.Characters.Find(ch => ch.Character == c) != null ? gfdv1.Characters.FirstOrDefault(ch => ch.Character == c) : null;
 
-                        if (usedChar != null)
+                        if (usedChar != null && usedChar.GlyphWidth != 0 && usedChar.GlyphHeight != 0)
                         {
                             var letterGlyph = fontTextures[usedChar.TexID].Clone(new Rectangle(usedChar.GlyphPosX, usedChar.GlyphPosY, usedChar.GlyphWidth, usedChar.GlyphHeight), fontTextures[usedChar.TexID].PixelFormat);
                             if (FontSize != origFontSize) letterGlyph = ChangeSize(letterGlyph, FontSize);
@@ -146,7 +146,7 @@ namespace GFDFontRenderer.GFD
                     {
                         var usedChar = gfdv2.Characters.Find(ch => ch.Character == c) != null ? gfdv2.Characters.FirstOrDefault(ch => ch.Character == c) : null;
 
-                        if (usedChar != null)
+                        if (usedChar != null && usedChar.GlyphWidth != 0 && usedChar.GlyphHeight != 0)
                         {
                             var letterGlyph = fontTextures[usedChar.TexID].Clone(new Rectangle(usedChar.GlyphPosX, usedChar.GlyphPosY, usedChar.GlyphWidth, usedChar.GlyphHeight), fontTextures[usedChar.TexID].PixelFormat);
                             if (FontSize != origFontSize) letterGlyph = ChangeSize(letterGlyph, FontSize);
